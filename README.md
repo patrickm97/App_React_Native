@@ -1,2 +1,2 @@
-# eCommerce_React
-eCommerce application developed with React Native
+# eCommerce application
+eCommerce application developed with Javascript's framework React Native
